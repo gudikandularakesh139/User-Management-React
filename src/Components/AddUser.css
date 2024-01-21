@@ -1,0 +1,12 @@
+.wrapper {
+    height: 100vh;
+}
+
+.addUser {
+    padding: 50px;
+    color: black;
+    background-color: beige;
+    width: 500px;
+    height: min-content;
+    border-radius: 5px;
+}

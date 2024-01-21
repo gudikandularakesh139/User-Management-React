@@ -1,0 +1,13 @@
+.wrapper {
+    height: 91.1vh;
+    background-color: black;
+}
+
+.userCard {
+    padding: 50px;
+    color: black;
+    background-color: beige;
+    width: 80rem;
+    height: min-content;
+    border-radius: 5px;
+}

@@ -1,0 +1,13 @@
+.wrapper {
+    height: 100vh;
+    background-color: black;
+}
+
+.findUser {
+    padding: 50px;
+    color: black;
+    background-color: beige;
+    width: 500px;
+    height: min-content;
+    border-radius: 5px;
+}
